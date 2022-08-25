@@ -1,8 +1,11 @@
 ### Hi, I’m DarkBoy 👋
-- 🌱 I’m currently learning JavaScript
 - 💻 I'm founder of <a href="https://store.darkdevelopment.net">Dark Development</a>
+- 👀 I'm Fivem Developer
 - ⌨ We are a group that makes scripts for FiveM
-- 🎓    
+- 🎓 We make quality and useful scripts
+- 🌱 I live in Serbia
+- 📫 Email: darkboybusiness1@gmail.com
+
 
 **Languages and Tools**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
