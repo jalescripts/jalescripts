@@ -10,7 +10,7 @@
 [![My Stats](https://github-readme-stats.vercel.app/api?username=DarkBoy621&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBoy621&theme=dark&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://discord.gg/ME9dWD5cXW">
+<a href="https://discord.darkdevelopment.net">
     <img
       alt="Support"
       src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
