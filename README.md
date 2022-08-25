@@ -1,9 +1,7 @@
 ### Hi, I’m DarkBoy 👋
-- 💻 I'm founder of <a href="https://store.darkdevelopment.net">Dark Development</a>
-- 👀 I'm Fivem Developer
-- ⌨ We are a group that makes scripts for FiveM
-- 🎓 We make quality and useful scripts
 - 🌱 I live in Serbia
+- 👀 I'm Fivem Developer
+- 💻 I'm founder of <a href="https://store.darkdevelopment.net">Dark Development</a>, we are a group that makes scripts for FiveM and we make quality and useful scripts
 - 📫 Email: darkboybusiness1@gmail.com
 
 
