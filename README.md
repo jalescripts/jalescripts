@@ -13,3 +13,7 @@
       src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
     />
 </a>
+
+ <a href="https://ko-fi.com/thelindat"><img
+    src="https://ko-fi.com/img/githubbutton_sm.svg"
+ /></a>
