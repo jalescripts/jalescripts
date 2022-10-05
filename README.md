@@ -7,13 +7,6 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=DarkBoy621&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBoy621&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://discord.darkdevelopment.net">
-    <img
-      alt="Support"
-      src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
-    />
-</a>
-
  <a href="https://ko-fi.com/thelindat"><img
     src="https://ko-fi.com/img/githubbutton_sm.svg"
  /></a>
