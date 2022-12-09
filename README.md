@@ -1,12 +1,34 @@
-### Hi, I’m DarkBoy 👋
-- 🌱 I live in Serbia
-- 👀 I'm Fivem Developer
-- 💻 I'm founder of <a href="https://store.darkdevelopment.net">Dark Development</a>, we are a group that makes scripts for FiveM and we make quality and useful scripts
-- 📫 Email: darkboybusiness1@gmail.com
+<h1 align='center'>Hi 👋, I'm DarkBoy</h1>
+<h3 align='center'>I'm a FiveM Developer from Serbia</h3>
+&nbsp;
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=DarkBoy621&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBoy621&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🔎 I'm currently learning NodeJS
+- 🎓 I'm a member of the uniq team
+- 💼 I'm currently working on FiveM
 
- <a href="https://ko-fi.com/darkboy621"><img
-    src="https://ko-fi.com/img/githubbutton_sm.svg"
- /></a>
+&nbsp;
+
+<h1 align="center">❓ Support</h1>
+&nbsp;
+<p align="center"><a href="https://discord.gg/WRknrjMZAS" target="_blank" rel="noreferrer noopener"><img src="https://discordapp.com/api/guilds/902467899602632745/widget.png?style=banner2" class="fr-fic fr-dib dcbtn" alt="widget.png?style=banner2" width="320" height="72"></a></p>
+
+&nbsp;
+
+<h1 align="center">📚 Languages and Tools:</h1>
+<p align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="55" height="55"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55" height="55"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="55" height="55"/> </a> </p>
+
+&nbsp;
+
+<h1 align="center">📈 Skills</h1>
+&nbsp;
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkBoy621&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10" alt="DarkBoy621" /></p>
+&nbsp;
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkBoy621&show_icons=true&theme=radical&border_radius=10&locale=en" alt="DarkBoy621" /></p>
+&nbsp;
+<p align="center">&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=DarkBoy621&count_private=true&theme=radical&border_radius=10" alt="DarkBoy621" /></p>
+    
+&nbsp;
+
+<h1 align="center">💼 Organization</h1>
+&nbsp;
+<p align="center"><a href="https://github.com/uniq-team" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Wl5aXfi.png" alt="bootstrap" width="100" height="100"/> </a></p>
