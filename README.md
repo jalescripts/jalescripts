@@ -26,9 +26,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkBoy621&show_icons=true&theme=radical&border_radius=10&locale=en" alt="DarkBoy621" /></p>
 &nbsp;
 <p align="center">&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=DarkBoy621&count_private=true&theme=radical&border_radius=10" alt="DarkBoy621" /></p>
-    
-&nbsp;
-
-<h1 align="center">💼 Organization</h1>
-&nbsp;
-<p align="center"><a href="https://github.com/uniq-team" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Wl5aXfi.png" alt="bootstrap" width="100" height="100"/> </a></p>
