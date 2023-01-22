@@ -3,7 +3,7 @@
 &nbsp;
 
 - 🔎 I'm currently learning VUE JS
-- 🎓 I'm a member of the uniq team
+- 🎓 I'm a member of the J A L E Scripts
 - 💼 I'm currently working on FiveM
 
 &nbsp;
