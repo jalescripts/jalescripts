@@ -1,8 +1,8 @@
-<h1 align='center'>Hi 👋, I'm DarkBoy</h1>
+<h1 align='center'>Hi 👋, I'm J A L E</h1>
 <h3 align='center'>I'm a FiveM Developer from Serbia</h3>
 &nbsp;
 
-- 🔎 I'm currently learning NodeJS
+- 🔎 I'm currently learning VUE JS
 - 🎓 I'm a member of the uniq team
 - 💼 I'm currently working on FiveM
 
