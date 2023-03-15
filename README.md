@@ -10,7 +10,7 @@
 
 <h1 align="center">❓ Support</h1>
 &nbsp;
-<p align="center"><a href="https://discord.gg/pK2ysGHNPf" target="_blank" rel="noreferrer noopener"><img src="https://discordapp.com/api/guilds/858315788540444723/widget.png?style=banner2" class="fr-fic fr-dib dcbtn" alt="widget.png?style=banner2" width="320" height="72"></a></p>
+<p align="center"><a href="https://discord.gg/WRknrjMZAS" target="_blank" rel="noreferrer noopener"><img src="https://discordapp.com/api/guilds/902467899602632745/widget.png?style=banner2" class="fr-fic fr-dib dcbtn" alt="widget.png?style=banner2" width="320" height="72"></a></p>
 
 &nbsp;
 
