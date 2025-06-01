@@ -2,7 +2,6 @@
 <h3 align='center'>I'm a FiveM Developer from Serbia</h3>
 &nbsp;
 
-- 🔎 I'm currently learning VUE JS
 - 💼 I'm currently working on FiveM
 
 &nbsp;
