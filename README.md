@@ -1,6 +1,6 @@
 <p align = 'center'>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalescripts&layout=compact&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalescripts&layout=compact"
   />
   <br>
   <a href="https://www.buymeacoffee.com/jaaleee"><img
